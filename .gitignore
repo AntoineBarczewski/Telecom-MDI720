@@ -25,6 +25,7 @@
 *.log
 *.sql
 *.sqlite
+*.csv
 
 # OS generated files #
 ######################
@@ -39,3 +40,4 @@ Thumbs.db
 # specific dataBase for this project #
 ######################################
 TP1/household_power_consumption.txt
+TP1/TGSTAID011249.txt
